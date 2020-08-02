@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Testing
+title: Home
 pagination:
   enabled: true
   sort_reverse: false

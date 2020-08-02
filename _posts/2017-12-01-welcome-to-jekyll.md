@@ -1,5 +1,14 @@
 ---
-layout: post
+title: Welcome To Jekyll
+layout: post  #文章的版型
+category: lessons  #文章的資料夾
+tagline: Supporting tagline  #文章的標語
+tags: #文章的tag
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
+published: false #是否發佈
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
