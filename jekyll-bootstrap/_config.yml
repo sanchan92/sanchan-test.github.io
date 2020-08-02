@@ -1,17 +1,17 @@
-title: Jekyll Bootstrap
-author: Jekyll
-email: mailbox@example.com
+title: Sam Chan
+author: Sam
+email: sanchan@sanchan.info
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
-github_username:  jekyll
-lang: en-US
+twitter_username: sanchan
+github_username:  sanchan
+lang: zh-HK
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-date_format: "%a, %b %d, %Y"
+date_format: "%Y-%m-%d %a"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
